@@ -19,7 +19,7 @@
             LaLiga.Add(Girona);
 
             League LaLigue = new League("La liga", LaLiga, LaLiga.Count,0);
-           LaLigue.ShowLeague(LaLigue);
+           //LaLigue.ShowLeague(LaLigue);
 
             //Team.ShowTeams(LaLiga);
         }
